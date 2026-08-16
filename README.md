@@ -1,2 +1,2 @@
-# DevOps poc
+# DevOps
 Basic details about project
