@@ -1,2 +1,2 @@
 # DevOps ashok
-Basic details about project
+Basic details about github
